@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"setNextRunTime" : "PaulDeBruicker 11/8/2016 15:38",
+		"initialize" : "jrp 9/5/2004 10:38",
+		"runHistory" : "jrp 7/15/2004 13:04",
+		"resume" : "jrp 7/30/2004 08:22",
+		"schedule:" : "jrp 9/6/2004 15:41",
+		"isRunning" : "jrp 7/30/2004 08:06",
+		"task:" : "jrp 7/14/2004 23:32",
+		"delete" : "jrp 7/15/2004 10:20",
+		"scheduler" : "jrp 7/15/2004 13:04",
+		"description:" : "jrp 7/15/2004 13:04",
+		"stop" : "jrp 7/30/2004 08:19",
+		"suspend" : "jrp 7/30/2004 08:20",
+		"scheduler:" : "jrp 7/14/2004 23:34",
+		"startDateAndTime:duration:" : "PaulDeBruicker 3/9/2017 12:00",
+		"convertToTimeParameter:" : "PaulDeBruicker 11/8/2016 15:38",
+		"description" : "jrp 7/15/2004 13:04",
+		"run" : "PaulDeBruicker 11/8/2016 15:38",
+		"runIfNecessary" : "PaulDeBruicker 11/8/2016 15:38",
+		"task" : "jrp 7/15/2004 13:04",
+		"nextRunTime" : "jrp 9/5/2004 22:42",
+		"printOn:" : "jrp 9/4/2004 23:21",
+		"isSuspended" : "jrp 7/30/2004 08:25",
+		"scheduleHasOnlyZeroDuration" : "jrp 9/5/2004 22:38",
+		"wasRun" : "jrp 9/5/2004 22:39",
+		"schedule" : "jrp 9/5/2004 22:10"
+	},
+	"class" : { }
+}

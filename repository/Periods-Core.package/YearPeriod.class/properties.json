@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "YearBasedPeriod",
+	"category" : "Periods-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "YearPeriod",
+	"type" : "normal"
+}

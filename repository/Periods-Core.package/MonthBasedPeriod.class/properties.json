@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Period",
+	"category" : "Periods-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MonthBasedPeriod",
+	"type" : "normal"
+}

@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"isRunning" : "PaulDeBruicker 12/8/2011 11:55",
+		"do:at:every:" : "jrp 9/5/2004 22:36",
+		"removeTask:" : "jrp 7/15/2004 08:36",
+		"stop" : "jrp 7/14/2004 22:43",
+		"taskAt:" : "jrp 7/15/2004 10:19",
+		"do:every:" : "PaulDeBruicker 11/8/2016 15:38",
+		"start" : "PaulDeBruicker 11/8/2016 15:38",
+		"do:at:" : "PaulDeBruicker 11/8/2016 15:38",
+		"tasksDo:" : "jrp 7/15/2004 09:25",
+		"initialize" : "PaulDeBruicker 1/29/2014 10:54",
+		"printOn:" : "jrp 5/14/2005 22:37",
+		"doOnce:at:" : "jrp 9/5/2004 10:03",
+		"do:following:" : "jrp 9/5/2004 22:52",
+		"addTask:" : "jrp 9/5/2004 10:48",
+		"taskCount" : "jrp 7/15/2004 09:30"
+	},
+	"class" : { }
+}

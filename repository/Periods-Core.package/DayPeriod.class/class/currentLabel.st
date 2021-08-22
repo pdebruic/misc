@@ -1,0 +1,3 @@
+configuration
+currentLabel
+	^'Today'

@@ -1,0 +1,37 @@
+{
+	"instance" : {
+		"displayOn:" : "EstebanMaringolo 1/1/2014 12:00",
+		"value:forAspect:" : "EstebanMaringolo 1/1/2014 12:00",
+		"value:forAspect:withArguments:" : "EstebanMaringolo 1/1/2014 12:00",
+		"getTextBlock:" : "EstebanMaringolo 1/1/2014 12:00",
+		"name" : "EstebanMaringolo 1/1/2014 12:00",
+		"=" : "EstebanMaringolo 1/1/2014 12:00",
+		"convertedValue:forAspect:withArguments:" : "EstebanMaringolo 1/1/2014 12:00",
+		"name:" : "EstebanMaringolo 1/1/2014 12:00",
+		"getTextBlock" : "EstebanMaringolo 1/1/2014 12:00",
+		"printOn:" : "EstebanMaringolo 1/1/2014 12:00",
+		"queryGroupValue:forAspect:withArguments:policy:" : "EstebanMaringolo 1/1/2014 12:00",
+		"value:" : "EstebanMaringolo 1/1/2014 12:00",
+		"convertedValue:forAspect:" : "EstebanMaringolo 1/1/2014 12:00",
+		"hash" : "EstebanMaringolo 1/1/2014 12:00",
+		"<=" : "EstebanMaringolo 1/1/2014 12:00"
+	},
+	"class" : {
+		"min" : "EstebanMaringolo 8/18/2014 10:36",
+		"max" : "EstebanMaringolo 8/18/2014 10:36",
+		"none" : "EstebanMaringolo 1/1/2014 12:00",
+		"functions" : "EstebanMaringolo 1/1/2014 12:00",
+		"named:" : "EstebanMaringolo 1/1/2014 12:00",
+		"sum" : "EstebanMaringolo 1/1/2014 12:00",
+		"count" : "EstebanMaringolo 1/1/2014 12:00",
+		"nullZeroSum" : "EstebanMaringolo 1/1/2014 12:00",
+		"initialize" : "EstebanMaringolo 8/17/2014 17:33",
+		"subjectGroup" : "EstebanMaringolo 1/1/2014 12:00",
+		"commonValue" : "EstebanMaringolo 1/1/2014 12:00",
+		"defaultGetTextBlock" : "EstebanMaringolo 1/1/2014 12:00",
+		"distinctsCount" : "EstebanMaringolo 1/1/2014 12:00",
+		"new" : "EstebanMaringolo 1/1/2014 12:00",
+		"isAbstract" : "EstebanMaringolo 8/17/2014 17:32",
+		"avg" : "EstebanMaringolo 1/1/2014 12:00"
+	}
+}

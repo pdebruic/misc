@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Queries-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"subject",
+		"elements",
+		"cache",
+		"cacheValue",
+		"parent",
+		"valuable",
+		"cacheDisplayValue"
+	],
+	"name" : "QueryGroup",
+	"type" : "normal"
+}

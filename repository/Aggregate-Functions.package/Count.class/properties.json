@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AggregateFunction",
+	"category" : "Aggregate-Functions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"aggregateFunctionAspect"
+	],
+	"name" : "Count",
+	"type" : "normal"
+}

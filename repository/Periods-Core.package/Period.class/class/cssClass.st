@@ -1,0 +1,4 @@
+public
+cssClass
+
+	self subclassResponsibility 

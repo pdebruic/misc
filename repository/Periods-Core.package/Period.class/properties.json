@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Magnitude",
+	"category" : "Periods-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"beginning",
+		"end"
+	],
+	"name" : "Period",
+	"type" : "normal"
+}

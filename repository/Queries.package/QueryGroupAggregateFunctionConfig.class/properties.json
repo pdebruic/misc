@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Model",
+	"category" : "Queries-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"builder",
+		"queryGroupBuilder",
+		"aggregateFunction",
+		"description"
+	],
+	"name" : "QueryGroupAggregateFunctionConfig",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Aggregate-Functions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Functions"
+	],
+	"instvars" : [
+		"name",
+		"getTextBlock"
+	],
+	"name" : "AggregateFunction",
+	"type" : "normal"
+}

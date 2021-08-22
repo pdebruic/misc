@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GroupingPolicy",
+	"category" : "Queries-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CommonGroupingPolicy",
+	"type" : "normal"
+}

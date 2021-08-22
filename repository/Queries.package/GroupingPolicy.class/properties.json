@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Queries-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"valuable",
+		"description",
+		"nilText"
+	],
+	"name" : "GroupingPolicy",
+	"type" : "normal"
+}

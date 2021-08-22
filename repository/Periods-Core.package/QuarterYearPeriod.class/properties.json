@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MonthBasedPeriod",
+	"category" : "Periods-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "QuarterYearPeriod",
+	"type" : "normal"
+}

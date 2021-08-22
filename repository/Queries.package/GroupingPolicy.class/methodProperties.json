@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"includesSelector:" : "EstebanMaringolo 9/30/2014 15:34",
+		"selector" : "EstebanMaringolo 9/30/2014 17:09",
+		"initialize" : "EstebanMaringolo 9/30/2014 17:10",
+		"hasDateAndTimeType" : "EstebanMaringolo 9/30/2014 17:09",
+		"valuable:" : "EstebanMaringolo 1/1/2014 12:00",
+		"includesDescription:" : "EstebanMaringolo 9/30/2014 15:33",
+		"description:" : "EstebanMaringolo 1/1/2014 12:00",
+		"size" : "EstebanMaringolo 8/17/2014 15:53",
+		"groupContainerClass" : "EstebanMaringolo 1/1/2014 12:00",
+		"group:arguments:" : "EstebanMaringolo 1/1/2014 12:00",
+		"valuable" : "EstebanMaringolo 1/1/2014 12:00",
+		"," : "EstebanMaringolo 8/17/2014 15:51",
+		"group:" : "EstebanMaringolo 1/1/2014 12:00",
+		"group:by:arguments:" : "EstebanMaringolo 1/1/2014 12:00",
+		"possibleGroupingPolicies" : "EstebanMaringolo 1/1/2014 12:00",
+		"description" : "EstebanMaringolo 1/1/2014 12:00",
+		"at:" : "EstebanMaringolo 8/17/2014 15:54",
+		"hash" : "EstebanMaringolo 1/1/2014 12:00",
+		"=" : "EstebanMaringolo 8/17/2014 00:49",
+		"nilText:" : "EstebanMaringolo 1/1/2014 12:00",
+		"newGroupOn:" : "EstebanMaringolo 1/1/2014 12:00",
+		"displayOn:" : "EstebanMaringolo 1/1/2014 12:00",
+		"nilText" : "EstebanMaringolo 1/1/2014 12:00"
+	},
+	"class" : {
+		"new" : "EstebanMaringolo 1/1/2014 12:00",
+		"canHandle:" : "EstebanMaringolo 9/30/2014 17:08",
+		"on:" : "EstebanMaringolo 9/30/2014 17:08",
+		"possibleGroupingPoliciesFor:" : "EstebanMaringolo 1/1/2014 12:00"
+	}
+}

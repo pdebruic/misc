@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"testRunDailyTask" : "PaulDeBruicker 3/9/2017 14:03",
+		"testRunEverySecond" : "PaulDeBruicker 11/8/2016 15:38",
+		"tearDown" : "jrp 7/14/2004 22:43",
+		"testRunDailyTaskNeverGetsBehind" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunEveryQuarterSecond" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunOnlyOnceWithFullyQualifiedDateAndTime" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunSeveralTasks" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunUsingCustomScheduleThatEnds" : "PaulDeBruicker 3/9/2017 11:58",
+		"testRunUsingCustomSchedule" : "PaulDeBruicker 3/9/2017 11:58",
+		"testNewTaskScheduledToRunEarlierInDayGetsRescheduledLaterInDay" : "PaulDeBruicker 3/9/2017 14:05",
+		"testRunInASecond" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunOnlyOnceWithOnlyTimeSpecified" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunAtSomeTimeInTheFuture" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunEveryOtherHourOnTheHour" : "PaulDeBruicker 3/9/2017 14:03",
+		"testDailyTaskDoesntGetsAheadIfRunExplicitly" : "PaulDeBruicker 11/8/2016 15:38",
+		"testRunOnceInPastRunsOnce" : "PaulDeBruicker 11/8/2016 15:38",
+		"setUp" : "jrp 7/14/2004 22:16"
+	},
+	"class" : { }
+}

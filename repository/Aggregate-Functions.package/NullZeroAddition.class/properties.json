@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Addition",
+	"category" : "Aggregate-Functions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NullZeroAddition",
+	"type" : "normal"
+}

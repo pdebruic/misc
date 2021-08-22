@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Count",
+	"category" : "Aggregate-Functions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DistinctsCount",
+	"type" : "normal"
+}

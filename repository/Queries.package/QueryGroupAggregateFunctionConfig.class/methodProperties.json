@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"aggregateFunction:" : "EstebanMaringolo 8/17/2014 20:52",
+		"aspect" : "EstebanMaringolo 8/17/2014 20:51",
+		"updateDescription" : "EstebanMaringolo 8/17/2014 20:52",
+		"queryGroupBuilder" : "EstebanMaringolo 1/1/2014 12:00",
+		"aggregateFunction" : "EstebanMaringolo 1/1/2014 12:00",
+		"builder:queryGroupBuilder:aspect:aggregateFunction:" : "EstebanMaringolo 8/17/2014 20:51"
+	},
+	"class" : {
+		"builder:queryGroupBuilder:aspect:aggregateFunction:" : "EstebanMaringolo 1/1/2014 12:00"
+	}
+}

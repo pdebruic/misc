@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AggregateFunction",
+	"category" : "Aggregate-Functions-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SubjectGroup",
+	"type" : "normal"
+}
